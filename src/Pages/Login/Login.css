@@ -1,0 +1,11 @@
+.login {
+  width: 400px;
+  display: flex;
+  justify-content: center;
+}
+
+.login-btn {
+  background-color: #4687ff;
+  color: white;
+  width: 210px;
+}

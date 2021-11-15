@@ -1,0 +1,86 @@
+[
+	{
+		"key": 1,
+		"name": "Tissot",
+		"img": "https://i.ibb.co/sqnfP14/1.jpg",
+		"price": "2600",
+		"description": "Tissot SA is a Swiss luxury watchmaker. The company was founded in Le Locle, Switzerland by Charles-Félicien Tissot and his son, Charles-Émile Tissot, in 1853. After several mergers and name changes, the group which Tissot SA belonged to was renamed the Swatch Group in 1998."
+	},
+	{
+		"key": 2,
+		"name": "Rolex",
+		"img": "https://i.ibb.co/Gs590Nh/2.jpg",
+		"price": "40000",
+		"description": "Rolex SA is a British-founded Swiss watch designer & manufacturer based in Geneva, Switzerland. Founded in 1905 as Wilsdorf and Davis by Hans Wilsdorf and Alfred Davis in London, England, the company registered the word 'Rolex' as the brand name of its watches in 1908, and it became Rolex Watch Co. Ltd. in 1915."
+	},
+	{
+		"key": 3,
+		"name": "Hublot",
+		"img": "https://i.ibb.co/ZT7VTr7/3.webp",
+		"price": "23500",
+		"description": "Hublot, Swiss watch brand, representing the Art of Fusion in watches.Hublot is a Swiss luxury watchmaker founded in 1980 by Italian Carlo Crocco. The company operates as a wholly owned subsidiary of France's LVMH.As a young company, the Swiss watch manufacturer Hublot is focused on modern times."
+	},
+	{
+		"key": 4,
+		"name": "Michael kors",
+		"img": "https://i.ibb.co/8cC3hZ2/4.jpg",
+		"price": "200",
+		"description": "Michael Kors Watches – Timepieces that are Truly American, Truly Luxurious. ... And when you talk about luxury timepieces for today's generation, Michael Kors watches rank high in the list of must-haves.Michael Kors is a world-renowned, award-winning designer of luxury accessories and ready-to-wear."
+    },
+	{
+		"key": 5,
+		"name": "Casio",
+		"img": "https://i.ibb.co/rvgbvJL/5.jpg",
+		"price": "150",
+		"description": "Casio Computer Co., Ltd. is a Japanese multinational electronics manufacturing corporation headquartered in Shibuya, Tokyo, Japan. Its products include calculators, mobile phones, digital cameras, electronic musical instruments, and analogue and digital watches."
+	},
+	{
+		"key": 6,
+		"name": "Seiko",
+		"img": "https://i.ibb.co/ws8G4v8/6.webp",
+		"price": "300",
+		"description": "Seiko is one of the few fully integrated watch manufactures. We design and develop our own movements using leading-edge technology.Seiko Holdings Corporation, commonly known as Seiko, is a Japanese maker of watches, clocks, electronic devices, semiconductors, jewelries, and optical products."
+	},
+	{
+		"key": 7,
+		"name": "Omega",
+		"img": "https://i.ibb.co/wSLcmgs/7.jpg",
+		"price": "3000",
+		"description": "Omega SA is a Swiss luxury watchmaker based in Biel/Bienne, Switzerland. Founded by Louis Brandt in La Chaux-de-Fonds in 1848, the company formally operated as La Generale Watch Co. until incorporating the name Omega in 1903, becoming Louis Brandt et Frère-Omega Watch & Co. "
+	},
+	{
+		"key": 8,
+		"name": "Rado",
+		"img": "https://i.ibb.co/q1LQPwZ/8.webp",
+		"price": "3000",
+		"description": "Find the perfect Rado for any occasion thanks to our Gift Finder. Water-resistant watches have been around since the 1920's. In 1960's Real Diving watches were launched making it possible then to use them as a tool underwater. RADO was one of the first to explore this new invention."
+	},
+	{
+		"key": 9,
+		"name": "Emporio Armani",
+		"img": "https://i.ibb.co/ryXZw3s/9.webp",
+		"price": "700",
+		"description": "Giorgio Armani S.p.A., commonly known as Armani, is an Italian luxury fashion house founded by Giorgio Armani which designs, manufactures, distributes and retails haute couture, ready-to-wear, leather goods, shoes, watches, jewelry, accessories, eyewear, cosmetics and home interiors."
+	},
+	{
+		"key": 10,
+		"name": "Cartier",
+		"img": "https://i.ibb.co/BcJshMV/10.jpg",
+		"price": "7000",
+		"description": "Cartier International SNC, or simply Cartier, is a French luxury goods conglomerate which designs, manufactures, distributes, and sells jewellery and watches. Founded by Louis-François Cartier in Paris in 1847, the company remained under family control until 1964."
+	},
+	{
+		"key": 11,
+		"name": "Daniel Wellington",
+		"img": "https://i.ibb.co/c8q2qFN/11.jpg",
+		"price": "3000",
+		"description": "Daniel Wellington is a Swedish brand founded in 2011 by Filip Tysander. DW uses a few rare designs and social media marketing to sell watches to younger consumers.Elegant Accessories & Watches from Daniel Wellington. Always 2 years warranty. Shop now. Explore our Timeless and Minimalist Accessories."
+	},
+	{
+		"key": 12,
+		"name": "Fossil",
+		"img": "https://i.ibb.co/Z1bTVyp/12.jpg",
+		"price": "300",
+		"description": "Fossil Group, Inc. is an American fashion designer and manufacturer founded in 1984 by Tom Kartsotis and based in Richardson, Texas. Their brands include Fossil, Relic, Michele Watch, Skagen Denmark, Misfit, WSI, and Zodiac Watches."
+	}
+]

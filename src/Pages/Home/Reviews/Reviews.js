@@ -1,0 +1,24 @@
+import React, { useEffect, useState } from 'react';
+import ReviewHome from './ReviewHome';
+
+const Reviews = () => {
+   const [reviews, setReviews] = useState([]);
+
+   useEffect(() => {
+      fetch('https://mighty-retreat-45944.herokuapp.com/reviews')
+         .then(res => res.json())
+         .then(data => setReviews(data))
+   }, [])
+   return (
+      <div>
+         <h2 className='review-style py-2 bg-info text-center'>Users Review</h2>
+         <div style={{ minHeight: "100px" }} className='row row-cols-1 row-cols-lg-3 row-cols-md-2 g-4'>
+            {
+               reviews.map(review => <ReviewHome key={review._id} review={review}></ReviewHome>)
+            }
+         </div>
+      </div>
+   );
+};
+
+export default Reviews;
